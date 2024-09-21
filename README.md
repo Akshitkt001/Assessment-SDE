@@ -1,5 +1,5 @@
 # Assessment-SDE
-
+Live Project Link:https://angular-akxt19.stackblitz.io/
 ## Database Structure
 
 ### Seats Table
